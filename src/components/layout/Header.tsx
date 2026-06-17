@@ -6,9 +6,8 @@ import { usePathname } from "next/navigation";
 import { HiOutlineMenuAlt3, HiOutlineX } from "react-icons/hi";
 import { IoSchoolOutline } from "react-icons/io5";
 import { useAuth } from "@/context/AuthContext";
-import { useCart } from "@/context/CartContext";
 import { ROUTES, APP_NAME } from "@/lib/constants";
-import { FiShoppingCart } from "react-icons/fi";
+import { FiLock } from "react-icons/fi";
 
 const navLinks = [
   { label: "Main", href: ROUTES.HOME },
@@ -22,7 +21,6 @@ export default function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const pathname = usePathname();
   const { user, logout } = useAuth();
-  const { totalItems } = useCart();
 
   return (
     <header className="sticky top-0 z-50 glass-strong border-b border-white/[0.06]">
@@ -55,14 +53,9 @@ export default function Header() {
 
           {/* Right side */}
           <div className="flex items-center gap-3">
-            {/* Cart */}
-            <Link href={ROUTES.CART} className="relative p-2 text-white/60 hover:text-neon-blue transition-colors">
-              <FiShoppingCart size={22} />
-              {totalItems > 0 && (
-                <span className="absolute -top-1 -right-1 w-5 h-5 bg-neon-pink text-white text-[10px] font-bold rounded-full flex items-center justify-center">
-                  {totalItems}
-                </span>
-              )}
+            {/* Admin Lock Icon */}
+            <Link href="/admin" className="relative p-2 text-white/60 hover:text-neon-purple transition-colors" title="Admin Panel">
+              <FiLock size={20} />
             </Link>
 
             {/* Auth */}

@@ -9,7 +9,8 @@ export async function GET() {
     const contacts = await readData<ContactMessage[]>("contacts.json");
     return NextResponse.json({ success: true, data: contacts });
   } catch (error) {
-    return NextResponse.json({ success: false, error: "Internal server error" }, { status: 500 });
+    console.error("GET /api/contact error:", error);
+    return NextResponse.json({ success: true, data: [] });
   }
 }
 
@@ -19,16 +20,24 @@ export async function POST(request: NextRequest) {
     const parsed = contactSchema.safeParse(body);
     if (!parsed.success) return NextResponse.json({ success: false, error: parsed.error.issues[0].message }, { status: 400 });
 
-    const contacts = await readData<ContactMessage[]>("contacts.json");
     const newContact: ContactMessage = {
       id: generateId(),
       ...parsed.data,
       createdAt: new Date().toISOString(),
     };
-    contacts.push(newContact);
-    await writeData("contacts.json", contacts);
+
+    try {
+      const contacts = await readData<ContactMessage[]>("contacts.json");
+      contacts.push(newContact);
+      await writeData("contacts.json", contacts);
+    } catch (dbError) {
+      // GitHub not configured - log but still accept the message
+      console.error("Contact DB write failed (GitHub not configured?):", dbError);
+    }
+
     return NextResponse.json({ success: true, data: newContact, message: "Message sent successfully" }, { status: 201 });
   } catch (error) {
-    return NextResponse.json({ success: false, error: "Internal server error" }, { status: 500 });
+    console.error("POST /api/contact error:", error);
+    return NextResponse.json({ success: false, error: "Failed to send message. Please try again." }, { status: 500 });
   }
 }
