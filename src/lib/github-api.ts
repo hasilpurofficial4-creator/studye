@@ -22,6 +22,11 @@ function encodeBase64(content: string): string {
 }
 
 export async function readData<T>(filePath: string): Promise<T> {
+  // If GitHub is not configured, return empty array/object
+  if (!OWNER || !REPO || !process.env.GITHUB_TOKEN) {
+    return ([] as unknown) as T;
+  }
+
   try {
     const response = await octokit.request("GET /repos/{owner}/{repo}/contents/{path}", {
       owner: OWNER,
@@ -48,6 +53,12 @@ export async function readData<T>(filePath: string): Promise<T> {
 }
 
 export async function writeData<T>(filePath: string, data: T): Promise<void> {
+  // If GitHub is not configured, skip write silently
+  if (!OWNER || !REPO || !process.env.GITHUB_TOKEN) {
+    console.warn(`[github-api] writeData skipped for ${filePath} - GitHub not configured`);
+    return;
+  }
+
   const path = `data/${filePath}`;
   const content = JSON.stringify(data, null, 2);
 

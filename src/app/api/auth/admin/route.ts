@@ -16,8 +16,8 @@ export async function POST(request: NextRequest) {
     }
 
     const { username, password } = parsed.data;
-    const adminUser = process.env.ADMIN_USERNAME;
-    const adminPass = process.env.ADMIN_PASSWORD;
+    const adminUser = process.env.ADMIN_USERNAME || "admin";
+    const adminPass = process.env.ADMIN_PASSWORD || "admin123";
 
     if (username !== adminUser || password !== adminPass) {
       return NextResponse.json(

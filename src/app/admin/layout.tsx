@@ -28,7 +28,7 @@ const adminNav = [
 export default function AdminLayout({ children }: { children: React.ReactNode }) {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const pathname = usePathname();
-  const { user, logout, isAdmin, loading } = useAuth();
+  const { user, logout, login: authLogin, isAdmin, loading } = useAuth();
   const router = useRouter();
   const { showToast } = useNotification();
   const [loginForm, setLoginForm] = useState({ username: "", password: "" });
@@ -47,8 +47,9 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
       });
       const data = await res.json();
       if (!res.ok) throw new Error(data.error);
-      document.cookie = `shl_token=${data.data.token}; path=/; max-age=${7 * 24 * 60 * 60}; SameSite=Lax`;
-      window.location.reload();
+      // Use AuthContext login to set user state immediately
+      authLogin(data.data.token, data.data.user);
+      showToast("Welcome, Admin!", "success");
     } catch (err) {
       showToast(err instanceof Error ? err.message : "Login failed", "error");
     } finally {
