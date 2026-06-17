@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" rx="24" fill="#0a0a14"/>
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="400" y2="400">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#b829dd" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#ff2d95" stop-opacity="0.3"/>
+    </linearGradient>
+    <linearGradient id="book" x1="140" y1="120" x2="260" y2="280">
+      <stop offset="0%" stop-color="#00f0ff"/>
+      <stop offset="100%" stop-color="#b829dd"/>
+    </linearGradient>
+  </defs>
+  <!-- Background glow -->
+  <circle cx="200" cy="200" r="150" fill="url(#glow)" opacity="0.4"/>
+  <circle cx="200" cy="200" r="100" fill="url(#glow)" opacity="0.3"/>
+  <!-- Book -->
+  <path d="M140 160 L200 140 L260 160 L260 280 L200 260 L140 280 Z" stroke="url(#book)" stroke-width="2" fill="none" opacity="0.8"/>
+  <line x1="200" y1="140" x2="200" y2="260" stroke="url(#book)" stroke-width="2" opacity="0.6"/>
+  <!-- Pages floating -->
+  <rect x="170" y="100" width="40" height="30" rx="4" stroke="#00f0ff" stroke-width="1.5" fill="none" opacity="0.5" transform="rotate(-10 190 115)"/>
+  <rect x="200" y="90" width="40" height="30" rx="4" stroke="#b829dd" stroke-width="1.5" fill="none" opacity="0.4" transform="rotate(5 220 105)"/>
+  <rect x="160" y="75" width="35" height="25" rx="4" stroke="#ff2d95" stroke-width="1.5" fill="none" opacity="0.3" transform="rotate(-5 177 87)"/>
+  <!-- Graduation cap -->
+  <path d="M160 310 L200 295 L240 310 L200 325 Z" stroke="#00f0ff" stroke-width="2" fill="none" opacity="0.7"/>
+  <line x1="200" y1="295" x2="200" y2="280" stroke="#00f0ff" stroke-width="2" opacity="0.5"/>
+  <circle cx="200" cy="278" r="3" fill="#00f0ff" opacity="0.7"/>
+  <!-- Stars/particles -->
+  <circle cx="100" cy="100" r="2" fill="#00f0ff" opacity="0.6"/>
+  <circle cx="300" cy="120" r="1.5" fill="#b829dd" opacity="0.5"/>
+  <circle cx="80" cy="250" r="1.5" fill="#ff2d95" opacity="0.4"/>
+  <circle cx="320" cy="280" r="2" fill="#00f0ff" opacity="0.5"/>
+  <circle cx="150" cy="340" r="1" fill="#b829dd" opacity="0.3"/>
+  <circle cx="280" cy="350" r="1.5" fill="#ff2d95" opacity="0.3"/>
+  <circle cx="340" cy="180" r="1" fill="#39ff14" opacity="0.4"/>
+  <circle cx="60" cy="180" r="1.5" fill="#39ff14" opacity="0.3"/>
+  <!-- Grid lines -->
+  <line x1="0" y1="200" x2="400" y2="200" stroke="#00f0ff" stroke-width="0.3" opacity="0.1"/>
+  <line x1="200" y1="0" x2="200" y2="400" stroke="#00f0ff" stroke-width="0.3" opacity="0.1"/>
+  <!-- Corner accents -->
+  <path d="M20 20 L60 20 M20 20 L20 60" stroke="#00f0ff" stroke-width="1" opacity="0.3"/>
+  <path d="M380 20 L340 20 M380 20 L380 60" stroke="#b829dd" stroke-width="1" opacity="0.3"/>
+  <path d="M20 380 L60 380 M20 380 L20 340" stroke="#ff2d95" stroke-width="1" opacity="0.3"/>
+  <path d="M380 380 L340 380 M380 380 L380 340" stroke="#39ff14" stroke-width="1" opacity="0.3"/>
+</svg>

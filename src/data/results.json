@@ -1,0 +1,19 @@
+[
+  {
+    "id": "res-001",
+    "examId": "exm-001",
+    "studentId": "stu-001",
+    "answers": [
+      { "questionId": "q-001", "selectedOption": "B", "text": "" },
+      { "questionId": "q-002", "selectedOption": "C", "text": "" },
+      { "questionId": "q-003", "selectedOption": "B", "text": "" },
+      { "questionId": "q-004", "selectedOption": "A", "text": "" },
+      { "questionId": "q-005", "selectedOption": "B", "text": "" }
+    ],
+    "marksObtained": 8,
+    "totalMarks": 10,
+    "percentage": 80,
+    "grade": "A",
+    "submittedAt": "2025-01-22T14:30:00Z"
+  }
+]

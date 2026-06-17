@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0a1a"/>
+      <stop offset="100%" stop-color="#1a0a2e"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00f0ff"/>
+      <stop offset="100%" stop-color="#b829dd"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="64" fill="url(#bg)"/>
+  <circle cx="256" cy="200" r="96" fill="none" stroke="url(#neon)" stroke-width="6"/>
+  <text x="256" y="220" text-anchor="middle" font-family="Orbitron,sans-serif" font-size="72" font-weight="700" fill="#00f0ff">SH</text>
+  <text x="256" y="360" text-anchor="middle" font-family="Orbitron,sans-serif" font-size="28" font-weight="600" fill="#00f0ff">STUDY HUB</text>
+  <text x="256" y="400" text-anchor="middle" font-family="Rajdhani,sans-serif" font-size="22" fill="#b829dd">LAHORE</text>
+  <circle cx="64" cy="64" r="4" fill="#00f0ff" opacity="0.4"/>
+  <circle cx="448" cy="64" r="4" fill="#b829dd" opacity="0.4"/>
+  <circle cx="64" cy="448" r="4" fill="#b829dd" opacity="0.4"/>
+  <circle cx="448" cy="448" r="4" fill="#00f0ff" opacity="0.4"/>
+</svg>

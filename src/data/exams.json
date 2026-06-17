@@ -1,0 +1,86 @@
+[
+  {
+    "id": "exm-001",
+    "title": "Mathematics Mid-Term MCQ",
+    "subject": "Mathematics",
+    "class": "10th",
+    "type": "mcq",
+    "duration": 30,
+    "totalMarks": 20,
+    "createdBy": "tch-001",
+    "createdAt": "2025-01-20T10:00:00Z",
+    "questions": [
+      {
+        "id": "q-001",
+        "text": "What is the value of x in 2x + 6 = 14?",
+        "type": "mcq",
+        "options": { "A": "2", "B": "4", "C": "6", "D": "8" },
+        "correctOption": "B",
+        "marks": 2
+      },
+      {
+        "id": "q-002",
+        "text": "The square root of 144 is:",
+        "type": "mcq",
+        "options": { "A": "10", "B": "11", "C": "12", "D": "14" },
+        "correctOption": "C",
+        "marks": 2
+      },
+      {
+        "id": "q-003",
+        "text": "If a triangle has angles 60° and 80°, what is the third angle?",
+        "type": "mcq",
+        "options": { "A": "30°", "B": "40°", "C": "50°", "D": "60°" },
+        "correctOption": "B",
+        "marks": 2
+      },
+      {
+        "id": "q-004",
+        "text": "Simplify: (3x²)(2x³)",
+        "type": "mcq",
+        "options": { "A": "5x⁵", "B": "6x⁵", "C": "6x⁶", "D": "5x⁶" },
+        "correctOption": "B",
+        "marks": 2
+      },
+      {
+        "id": "q-005",
+        "text": "What is 15% of 200?",
+        "type": "mcq",
+        "options": { "A": "25", "B": "30", "C": "35", "D": "40" },
+        "correctOption": "B",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "exm-002",
+    "title": "Physics Chapter 3 - Subjective",
+    "subject": "Physics",
+    "class": "1st Year",
+    "type": "subjective",
+    "duration": 45,
+    "totalMarks": 30,
+    "createdBy": "tch-002",
+    "createdAt": "2025-01-21T10:00:00Z",
+    "questions": [
+      {
+        "id": "q-010",
+        "text": "Define Newton's three laws of motion with real-life examples.",
+        "type": "subjective",
+        "marks": 10
+      },
+      {
+        "id": "q-011",
+        "text": "Explain the difference between mass and weight. Include the formula relating them.",
+        "type": "subjective",
+        "marks": 10
+      },
+      {
+        "id": "q-012",
+        "text": "Derive the equation of motion: v = u + at",
+        "type": "subjective",
+        "marks": 10
+      }
+    ]
+  }
+]

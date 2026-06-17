@@ -1,0 +1,38 @@
+[
+  {
+    "id": "stu-001",
+    "name": "Ahmad Ali",
+    "fatherName": "Muhammad Ali",
+    "class": "10th",
+    "idCard": "35201-1234567-1",
+    "address": "45-B Model Town, Lahore",
+    "email": "ahmad@example.com",
+    "mobile": "03001234567",
+    "password": "student123",
+    "createdAt": "2025-01-15T10:00:00Z"
+  },
+  {
+    "id": "stu-002",
+    "name": "Fatima Khan",
+    "fatherName": "Imran Khan",
+    "class": "9th",
+    "idCard": "35201-7654321-2",
+    "address": "12-C Gulberg III, Lahore",
+    "email": "fatima@example.com",
+    "mobile": "03009876543",
+    "password": "student123",
+    "createdAt": "2025-01-16T10:00:00Z"
+  },
+  {
+    "id": "stu-003",
+    "name": "Hassan Raza",
+    "fatherName": "Raza Hussain",
+    "class": "1st Year",
+    "idCard": "35201-1111111-3",
+    "address": "78-A DHA Phase 5, Lahore",
+    "email": "hassan@example.com",
+    "mobile": "03011111111",
+    "password": "student123",
+    "createdAt": "2025-01-17T10:00:00Z"
+  }
+]

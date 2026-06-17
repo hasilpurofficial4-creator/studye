@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a0a2e"/>
+      <stop offset="100%" stop-color="#0a0a1a"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#b829dd"/>
+      <stop offset="100%" stop-color="#ff2d95"/>
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="24" fill="url(#bg)"/>
+  <circle cx="96" cy="76" r="36" fill="none" stroke="url(#neon)" stroke-width="3"/>
+  <text x="96" y="82" text-anchor="middle" font-family="Orbitron,sans-serif" font-size="18" font-weight="700" fill="#b829dd">ADMIN</text>
+  <text x="96" y="136" text-anchor="middle" font-family="Orbitron,sans-serif" font-size="11" font-weight="600" fill="#b829dd">STUDY HUB</text>
+  <text x="96" y="154" text-anchor="middle" font-family="Rajdhani,sans-serif" font-size="9" fill="#ff2d95">CONTROL PANEL</text>
+  <circle cx="24" cy="24" r="2" fill="#b829dd" opacity="0.4"/>
+  <circle cx="168" cy="24" r="2" fill="#ff2d95" opacity="0.4"/>
+  <circle cx="24" cy="168" r="2" fill="#ff2d95" opacity="0.4"/>
+  <circle cx="168" cy="168" r="2" fill="#b829dd" opacity="0.4"/>
+</svg>
