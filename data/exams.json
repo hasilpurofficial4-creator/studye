@@ -1,1 +1,125 @@
-[]
+[
+  {
+    "id": "1781798651446-uz0xfyzlz",
+    "title": "Islamiyat final MCQs test 2026",
+    "class": "Class 11",
+    "type": "mcq",
+    "questions": [
+      {
+        "id": "1",
+        "question": "بیوہ کی عدت مقرر کی گئی ہے؟",
+        "optionA": "دو ماہ دس دن ",
+        "optionB": "تین ماہ دس دن ",
+        "optionC": "چار ماہ دس دن ",
+        "optionD": "ایک سال",
+        "correctOption": "C",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781797354200-aobjbzsjj",
+        "question": "اسلام میں خلیفہ کی بڑی ذمہ داری ہے؟",
+        "optionA": "رفاہ عامہ ",
+        "optionB": "اقامت دین ",
+        "optionC": "عدل و انصاف ",
+        "optionD": "تعمیر وترقی ",
+        "correctOption": "B",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781797509912-kkj629bs9",
+        "question": " حضرت عمرؓ کا مقدمہ کس عدالت میں پیش ہوا؟؟",
+        "optionA": "حضرت زید بن ثابت ",
+        "optionB": "ابو ہریرہ ",
+        "optionC": "امام حسن ",
+        "optionD": "ابودرداء ",
+        "correctOption": "A",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781797733424-ghh1mapwq",
+        "question": "مسلم نوجوانوں کی ذمہ داری ہے تحفظ؟",
+        "optionA": "ذاتی حقوق",
+        "optionB": "خاندانی حقوق",
+        "optionC": "اقلیتوں کے حقوق",
+        "optionD": "لسانی حقوق",
+        "correctOption": "C",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781797920429-e8fkxwzdx",
+        "question": "الفرقان کا معنی ہے",
+        "optionA": "اخری کتاب",
+        "optionB": "خاص کتاب",
+        "optionC": "نازل کردہ کتاب",
+        "optionD": "حق و باطل میں فرق کرنے والی کتاب",
+        "correctOption": "D",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781798015046-ibw2q1lnh",
+        "question": "حضرت جعفر کے شاگردوں میں شامل تھے",
+        "optionA": "جابر بن حیان",
+        "optionB": "الزہراوی",
+        "optionC": "بو علی سینا",
+        "optionD": "البیرونی",
+        "correctOption": "A",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781798139683-mzave7uq9",
+        "question": "معاشرتی امن و سکون کا ضامن ہے",
+        "optionA": "قانونی حکمرانی",
+        "optionB": "معاشرتی ترقی",
+        "optionC": "مذہبی ازادی",
+        "optionD": "گردش دولت",
+        "correctOption": "A",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781798250730-1qvja4zg8",
+        "question": "نکاح کے فرائض میں شامل ہے",
+        "optionA": "حق مہر",
+        "optionB": "ایجاب و قبول",
+        "optionC": "منگنی",
+        "optionD": "ولیمہ",
+        "correctOption": "B",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781798360513-4zzoqwh81",
+        "question": "قران مجید میں کل کتنی سورتیں ہیں",
+        "optionA": "120",
+        "optionB": "110",
+        "optionC": "114",
+        "optionD": "124",
+        "correctOption": "C",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781798423034-zp5xxhy92",
+        "question": "مکی سورتیں وہ ہیں جو نازل ہوئی",
+        "optionA": "ہجرت کے بعد",
+        "optionB": "مکہ میں",
+        "optionC": "مدینہ میں",
+        "optionD": "ہجرت سے پہلے",
+        "correctOption": "D",
+        "marks": 1,
+        "type": "mcq"
+      }
+    ],
+    "totalQuestions": 10,
+    "totalMarks": 10,
+    "duration": 20,
+    "createdBy": "1781719221587-ojj0lgntz",
+    "createdAt": "2026-06-18T16:04:11.446Z"
+  }
+]
