@@ -86,5 +86,16 @@
     "email": "abdulrehmantariq0812@gmail.com",
     "password": "1q2w3e4r5t6y",
     "createdAt": "2026-06-18T16:21:54.767Z"
+  },
+  {
+    "id": "1781800622298-a7s9ocltz",
+    "name": "Somia",
+    "fatherName": "Manzoor Ahmad",
+    "class": "Class 11",
+    "idCard": "35201-2108736-5",
+    "address": "Bagbanpura,Lahore",
+    "email": "hamzabahi839@gmail.com",
+    "password": "Sweet12%",
+    "createdAt": "2026-06-18T16:37:02.298Z"
   }
 ]
