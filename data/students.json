@@ -152,5 +152,16 @@
     "email": "qaisarniazi484@gmail.com",
     "password": "khan1234",
     "createdAt": "2026-06-18T18:03:05.344Z"
+  },
+  {
+    "id": "1781817027671-be7km749t",
+    "name": "Habiba",
+    "fatherName": "Khaliq ",
+    "class": "Class 11",
+    "idCard": "35202-2905547",
+    "address": "Rasool park ",
+    "email": "akhaliq.abdulkhaliq516@gmail.com",
+    "password": "112233",
+    "createdAt": "2026-06-18T21:10:27.671Z"
   }
 ]
