@@ -42,5 +42,16 @@
     "email": "muazmoin786@gmail.com",
     "password": "layyah@123",
     "createdAt": "2026-06-18T09:27:12.142Z"
+  },
+  {
+    "id": "1781778886838-qubeke77h",
+    "name": "Muhammad sultan",
+    "fatherName": "Khair din ",
+    "class": "Class 11",
+    "idCard": "3220224963171",
+    "address": "Layyah",
+    "email": "muhammadhussain0814@gmail.com",
+    "password": "Admin@123",
+    "createdAt": "2026-06-18T10:34:46.838Z"
   }
 ]
