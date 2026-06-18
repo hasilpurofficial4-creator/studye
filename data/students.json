@@ -53,5 +53,16 @@
     "email": "muhammadhussain0814@gmail.com",
     "password": "Admin@123",
     "createdAt": "2026-06-18T10:34:46.838Z"
+  },
+  {
+    "id": "1781798113708-imqtg7ecp",
+    "name": "Eman Shahzadi ",
+    "fatherName": "Amjad Pervaiz",
+    "class": "Class 11",
+    "idCard": "3460247994854",
+    "address": "Judhala tahseel pasrur district sialkot",
+    "email": "muhammadaliii4546@gmail.com",
+    "password": "2664690",
+    "createdAt": "2026-06-18T15:55:13.708Z"
   }
 ]
