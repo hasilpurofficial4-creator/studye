@@ -108,5 +108,16 @@
     "email": "alimeha564@gmail.com",
     "password": "124164",
     "createdAt": "2026-06-18T16:51:16.520Z"
+  },
+  {
+    "id": "1781801959414-mpodpfjtv",
+    "name": "Maryam Fatima ",
+    "fatherName": "M. Amjad Farooq ",
+    "class": "Class 11",
+    "idCard": "3110465793694",
+    "address": "Khayaban e Amin",
+    "email": "chamjadfarooq3131@gmail.com",
+    "password": "maryamamjad31",
+    "createdAt": "2026-06-18T16:59:19.415Z"
   }
 ]
