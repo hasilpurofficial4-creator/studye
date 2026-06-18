@@ -130,5 +130,16 @@
     "email": "mbilal5076155@gmail.com",
     "password": "112233",
     "createdAt": "2026-06-18T17:30:23.986Z"
+  },
+  {
+    "id": "1781805342735-qnyc7wq0y",
+    "name": "Qasim Riaz",
+    "fatherName": " Riaz",
+    "class": "Class 11",
+    "idCard": "3520261003563",
+    "address": "27-A malik park shad bagh lahore",
+    "email": "q861086@gmail.com",
+    "password": "Mrqasim@786",
+    "createdAt": "2026-06-18T17:55:42.735Z"
   }
 ]
