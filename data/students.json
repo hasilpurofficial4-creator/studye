@@ -20,5 +20,16 @@
     "email": "koraia916@gmail.com",
     "password": "sumaiyahafeez$",
     "createdAt": "2026-06-18T08:22:19.940Z"
+  },
+  {
+    "id": "1781771155729-rdege51vz",
+    "name": "Mirab",
+    "fatherName": "Rizwan khan",
+    "class": "Class 11",
+    "idCard": "3520130065470",
+    "address": "Lahore",
+    "email": "princessmirab04@gmail.com",
+    "password": "mirab123@",
+    "createdAt": "2026-06-18T08:25:55.729Z"
   }
 ]
