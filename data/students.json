@@ -75,5 +75,16 @@
     "email": "sethazam804@gmail.com",
     "password": "56623998",
     "createdAt": "2026-06-18T16:10:51.594Z"
+  },
+  {
+    "id": "1781799714767-erugw1pns",
+    "name": "MUHAMMAD REHMAN",
+    "fatherName": "MUHAMMAD REHMAN",
+    "class": "Class 11",
+    "idCard": "3410161044618",
+    "address": "Dera mela singh",
+    "email": "abdulrehmantariq0812@gmail.com",
+    "password": "1q2w3e4r5t6y",
+    "createdAt": "2026-06-18T16:21:54.767Z"
   }
 ]
