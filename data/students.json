@@ -64,5 +64,16 @@
     "email": "muhammadaliii4546@gmail.com",
     "password": "2664690",
     "createdAt": "2026-06-18T15:55:13.708Z"
+  },
+  {
+    "id": "1781799051594-360zs8ia5",
+    "name": "Seth Azam",
+    "fatherName": "Seth Azam",
+    "class": "Class 11",
+    "idCard": "350102975433325",
+    "address": "Herdo Muhammad Kay Post office khudian",
+    "email": "sethazam804@gmail.com",
+    "password": "56623998",
+    "createdAt": "2026-06-18T16:10:51.594Z"
   }
 ]
