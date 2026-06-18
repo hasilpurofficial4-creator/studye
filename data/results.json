@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1781775505807-hsn70oh9u",
+    "studentId": "1781719221587-ojj0lgntz",
+    "studentName": "zaid-bwp-wa-bot2",
+    "fatherName": "N/A",
+    "class": "N/A",
+    "examId": "1781775445856-adib24xmk",
+    "examTitle": "TESTING",
+    "totalMarks": 3,
+    "obtainedMarks": 2,
+    "percentage": 67,
+    "answers": [
+      {
+        "questionId": "1",
+        "answer": "B"
+      },
+      {
+        "questionId": "1781775386247-hzuj0gouw",
+        "answer": "B"
+      },
+      {
+        "questionId": "1781775409735-vof57wgnt",
+        "answer": "A"
+      }
+    ],
+    "createdAt": "2026-06-18T09:38:25.807Z"
+  }
+]
