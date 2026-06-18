@@ -141,5 +141,16 @@
     "email": "q861086@gmail.com",
     "password": "Mrqasim@786",
     "createdAt": "2026-06-18T17:55:42.735Z"
+  },
+  {
+    "id": "1781805785344-bilu402rj",
+    "name": "Qaisar khan",
+    "fatherName": " khan ameer kjan",
+    "class": "Class 11",
+    "idCard": "3830322413249",
+    "address": "near paf gate talagang road mianwali/fezayia colony",
+    "email": "qaisarniazi484@gmail.com",
+    "password": "khan1234",
+    "createdAt": "2026-06-18T18:03:05.344Z"
   }
 ]
