@@ -960,5 +960,60 @@
       }
     ],
     "createdAt": "2026-06-18T18:05:16.921Z"
+  },
+  {
+    "id": "1781817155474-jdnslszsy",
+    "studentId": "1781817027671-be7km749t",
+    "studentName": "Habiba",
+    "fatherName": "N/A",
+    "class": "N/A",
+    "examId": "1781798651446-uz0xfyzlz",
+    "examTitle": "Islamiyat final MCQs test 2026",
+    "totalMarks": 10,
+    "obtainedMarks": 3,
+    "percentage": 30,
+    "answers": [
+      {
+        "questionId": "1",
+        "answer": "A"
+      },
+      {
+        "questionId": "1781797354200-aobjbzsjj",
+        "answer": "A"
+      },
+      {
+        "questionId": "1781797509912-kkj629bs9",
+        "answer": "B"
+      },
+      {
+        "questionId": "1781797733424-ghh1mapwq",
+        "answer": "A"
+      },
+      {
+        "questionId": "1781797920429-e8fkxwzdx",
+        "answer": "D"
+      },
+      {
+        "questionId": "1781798015046-ibw2q1lnh",
+        "answer": "A"
+      },
+      {
+        "questionId": "1781798139683-mzave7uq9",
+        "answer": "B"
+      },
+      {
+        "questionId": "1781798250730-1qvja4zg8",
+        "answer": "A"
+      },
+      {
+        "questionId": "1781798360513-4zzoqwh81",
+        "answer": "C"
+      },
+      {
+        "questionId": "1781798423034-zp5xxhy92",
+        "answer": "B"
+      }
+    ],
+    "createdAt": "2026-06-18T21:12:35.474Z"
   }
 ]
