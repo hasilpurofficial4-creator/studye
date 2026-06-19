@@ -196,5 +196,16 @@
     "email": "syedmattishah32@gmail.com",
     "password": "*October08#",
     "createdAt": "2026-06-19T06:34:30.055Z"
+  },
+  {
+    "id": "1781865768628-xq52sl7ds",
+    "name": "Huria",
+    "fatherName": "Muhammad zaheer babar",
+    "class": "Class 10",
+    "idCard": "3330156769494",
+    "address": "Chak no 351 gojra toba tek singh pk ",
+    "email": "jsami7755@gmail.com",
+    "password": "5577samij",
+    "createdAt": "2026-06-19T10:42:48.628Z"
   }
 ]
