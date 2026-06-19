@@ -174,5 +174,16 @@
     "email": "qadrizaman114@gmail.com",
     "password": "12345678",
     "createdAt": "2026-06-19T06:01:33.991Z"
+  },
+  {
+    "id": "1781850695300-u40yc6lcw",
+    "name": "Abdullah Mushtaq",
+    "fatherName": "Abdullah Mushtaq",
+    "class": "Class 11",
+    "idCard": "3510260061693",
+    "address": "23 H,Gulberg II, lahore, Pakistan",
+    "email": "mushtaqabdullah439@gmail.com",
+    "password": "56623998",
+    "createdAt": "2026-06-19T06:31:35.300Z"
   }
 ]
