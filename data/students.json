@@ -163,5 +163,16 @@
     "email": "akhaliq.abdulkhaliq516@gmail.com",
     "password": "112233",
     "createdAt": "2026-06-18T21:10:27.671Z"
+  },
+  {
+    "id": "1781848893991-we9523rm2",
+    "name": "Qadri Zaman",
+    "fatherName": "Qadri Zaman",
+    "class": "Class 11",
+    "idCard": "3867854678754",
+    "address": "Chal no 2627 ",
+    "email": "qadrizaman114@gmail.com",
+    "password": "12345678",
+    "createdAt": "2026-06-19T06:01:33.991Z"
   }
 ]
