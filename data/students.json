@@ -218,5 +218,16 @@
     "email": "noorhaidia@gmail.com",
     "password": "aass1122",
     "createdAt": "2026-06-19T15:51:46.169Z"
+  },
+  {
+    "id": "1781957528644-bma5xd8kr",
+    "name": "Muhammad Mujtaba Mudassir",
+    "fatherName": "Mudassir Amir Sabir",
+    "class": "Class 11",
+    "idCard": "3710409585165",
+    "address": "VPO PINDSULTANI TEHSIL JAND  DISTRICT ATTOCK",
+    "email": "mudassiramirsabirkhan@gmail.com",
+    "password": "M*1udaS",
+    "createdAt": "2026-06-20T12:12:08.644Z"
   }
 ]
