@@ -229,5 +229,16 @@
     "email": "mudassiramirsabirkhan@gmail.com",
     "password": "M*1udaS",
     "createdAt": "2026-06-20T12:12:08.644Z"
+  },
+  {
+    "id": "1781958743025-k0dputdra",
+    "name": "Eman Shabbir ",
+    "fatherName": "Shabbir Hussain ",
+    "class": "Class 11",
+    "idCard": "1234_5678900",
+    "address": "Zafarwal ",
+    "email": "shabeereman966@gmail.com",
+    "password": "123456",
+    "createdAt": "2026-06-20T12:32:23.025Z"
   }
 ]
