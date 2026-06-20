@@ -1,1 +1,202 @@
-[]
+[
+  {
+    "id": "1781943150545-lq1212g9u",
+    "title": "Biology Final MCQs",
+    "class": "Class 11",
+    "type": "mcq",
+    "questions": [
+      {
+        "id": "1",
+        "question": "Flatworms are? ",
+        "optionA": "Diploblastic",
+        "optionB": "Triploblastic",
+        "optionC": "Monoblastic",
+        "optionD": "None",
+        "correctOption": "B",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781941163747-vwwjqn5zr",
+        "question": "What are the flame cell in flatworms used for? ",
+        "optionA": "Digestion",
+        "optionB": "Movement ",
+        "optionC": "Excretion ",
+        "optionD": "Respiration ",
+        "correctOption": "C",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781941534659-kkp8shlyl",
+        "question": "Which of the following component is not found in our kind of bacteria? ",
+        "optionA": "Ribosomes",
+        "optionB": "Sar membrane",
+        "optionC": "Nucleoid ",
+        "optionD": "Capsule ",
+        "correctOption": "D",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781941672014-slmm7qldw",
+        "question": "The bacterial chromosomes is typically",
+        "optionA": "Linear double standard DNA",
+        "optionB": "Circular single 10 standard RNA",
+        "optionC": "Circular double standard DNA",
+        "optionD": "Linear single standard DNA",
+        "correctOption": "C",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781941784201-j9d1day9b",
+        "question": "Teen bacterial cells respiration occur at",
+        "optionA": "Mitochondria",
+        "optionB": "Cell membrane",
+        "optionC": "Ribosomes",
+        "optionD": "Endoplasmic reticulum",
+        "correctOption": "B",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781941846171-xscmrigrf",
+        "question": "What is the primary function of flagella in bacterial cell",
+        "optionA": "DNA replication",
+        "optionB": "Cell division",
+        "optionC": "Motility",
+        "optionD": "Protein synthesis",
+        "correctOption": "C",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781941938988-fdu4s2a8s",
+        "question": "Who proposed the five kingdom classification system",
+        "optionA": "Charles Darwin ",
+        "optionB": "Robert H. Whittaker ",
+        "optionC": "Carl woese",
+        "optionD": "Aristotle ",
+        "correctOption": "B",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781942058739-u2kybly3q",
+        "question": "What is the major component of bacterial cell",
+        "optionA": "Cellulose ",
+        "optionB": "Chitin ",
+        "optionC": "Peptide glycan ",
+        "optionD": "Lignin",
+        "correctOption": "C",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781942192352-r5ecqhglm",
+        "question": "Gram positive bacteria have ",
+        "optionA": "Thin peptide glycan and high lipids contant ",
+        "optionB": "Thin peptide glycan and low lipids contant ",
+        "optionC": "No peptide glycan ",
+        "optionD": "No lipids contant at all",
+        "correctOption": "B",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781942321286-f5hrnv5gn",
+        "question": "What is mesosome",
+        "optionA": "Pigment in bacteria ",
+        "optionB": "Invagination in cell wall",
+        "optionC": "Invegination of plasma membrane ",
+        "optionD": "Cell wall components ",
+        "correctOption": "C",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781942445588-973op1ke6",
+        "question": "Which of the following is function of mesosome ",
+        "optionA": "Digestion ",
+        "optionB": "Photosynthesis ",
+        "optionC": "DNA replication and respiration ",
+        "optionD": "Mortality ",
+        "correctOption": "C",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781942548486-6w6n07tyz",
+        "question": "What is absent in bacterial cytoplasm ",
+        "optionA": "Ribosomes ",
+        "optionB": "Cytoskeleton ",
+        "optionC": "Mesosome ",
+        "optionD": "Nucleoid ",
+        "correctOption": "B",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781942613460-fcp0ro25h",
+        "question": "Pepto glycan is composed of ",
+        "optionA": "Amino Acid and DNA ",
+        "optionB": "Lipids and starch ",
+        "optionC": "Clycan chains and peptide fragments ",
+        "optionD": "Protein and RNA ",
+        "correctOption": "C",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781942716575-vzrb9hjxj",
+        "question": "In the five kingdom system prokaryotes are placed in which Kingdom",
+        "optionA": "Pratishtha",
+        "optionB": "Plantae",
+        "optionC": "Monera ",
+        "optionD": "Fungi",
+        "correctOption": "C",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781942802015-qaipls6mp",
+        "question": "Bacteria belong to which domain in the three  domain system",
+        "optionA": "Archaea",
+        "optionB": "Eukarya",
+        "optionC": "Monera ",
+        "optionD": "Bacteria ",
+        "correctOption": "D",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781942945316-ajjqplkvo",
+        "question": "What type of  Cellular organisation do all bacteria have",
+        "optionA": "Multi cellular eukaryotic",
+        "optionB": "Unicellular eukaryotic",
+        "optionC": "Unicellular prokaryotic ",
+        "optionD": "Multi cellular prokaryotic",
+        "correctOption": "C",
+        "marks": 1,
+        "type": "mcq"
+      },
+      {
+        "id": "1781943060993-3hjltlz85",
+        "question": "What protein act as pore in Gram negative bacteria",
+        "optionA": "Actin",
+        "optionB": "Myosin ",
+        "optionC": "Porin ",
+        "optionD": "Tubulin",
+        "correctOption": "C",
+        "marks": 1,
+        "type": "mcq"
+      }
+    ],
+    "totalQuestions": 17,
+    "totalMarks": 17,
+    "duration": 30,
+    "createdBy": "1781719221587-ojj0lgntz",
+    "createdAt": "2026-06-20T08:12:30.545Z"
+  }
+]
