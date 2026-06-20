@@ -240,5 +240,16 @@
     "email": "shabeereman966@gmail.com",
     "password": "123456",
     "createdAt": "2026-06-20T12:32:23.025Z"
+  },
+  {
+    "id": "1781959689052-jql0698nk",
+    "name": "Abdulrehman",
+    "fatherName": "Tariq",
+    "class": "Class 11",
+    "idCard": "3410175764618",
+    "address": "Bhikinroad",
+    "email": "abdulrehmantariq786@gmail.com",
+    "password": "1q2w3e44",
+    "createdAt": "2026-06-20T12:48:09.052Z"
   }
 ]
