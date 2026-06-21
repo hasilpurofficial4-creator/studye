@@ -1540,5 +1540,88 @@
       }
     ],
     "createdAt": "2026-06-21T08:38:36.209Z"
+  },
+  {
+    "id": "1782049025334-fa9iezigx",
+    "studentId": "1781968501260-2k2kuvd6i",
+    "studentName": "Muhammad Hafeez ",
+    "fatherName": "N/A",
+    "class": "N/A",
+    "examId": "1781943150545-lq1212g9u",
+    "examTitle": "Biology Final MCQs",
+    "totalMarks": 17,
+    "obtainedMarks": 3,
+    "percentage": 18,
+    "answers": [
+      {
+        "questionId": "1",
+        "answer": "A"
+      },
+      {
+        "questionId": "1781941163747-vwwjqn5zr",
+        "answer": "D"
+      },
+      {
+        "questionId": "1781941534659-kkp8shlyl",
+        "answer": "D"
+      },
+      {
+        "questionId": "1781941672014-slmm7qldw",
+        "answer": "D"
+      },
+      {
+        "questionId": "1781941784201-j9d1day9b",
+        "answer": "D"
+      },
+      {
+        "questionId": "1781941846171-xscmrigrf",
+        "answer": "B"
+      },
+      {
+        "questionId": "1781941938988-fdu4s2a8s",
+        "answer": "D"
+      },
+      {
+        "questionId": "1781942058739-u2kybly3q",
+        "answer": "D"
+      },
+      {
+        "questionId": "1781942192352-r5ecqhglm",
+        "answer": "A"
+      },
+      {
+        "questionId": "1781942321286-f5hrnv5gn",
+        "answer": "B"
+      },
+      {
+        "questionId": "1781942445588-973op1ke6",
+        "answer": "C"
+      },
+      {
+        "questionId": "1781942548486-6w6n07tyz",
+        "answer": "D"
+      },
+      {
+        "questionId": "1781942613460-fcp0ro25h",
+        "answer": "A"
+      },
+      {
+        "questionId": "1781942716575-vzrb9hjxj",
+        "answer": "B"
+      },
+      {
+        "questionId": "1781942802015-qaipls6mp",
+        "answer": "C"
+      },
+      {
+        "questionId": "1781942945316-ajjqplkvo",
+        "answer": "D"
+      },
+      {
+        "questionId": "1781943060993-3hjltlz85",
+        "answer": "C"
+      }
+    ],
+    "createdAt": "2026-06-21T13:37:05.334Z"
   }
 ]
