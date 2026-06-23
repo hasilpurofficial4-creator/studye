@@ -295,5 +295,16 @@
     "email": "syed@sherazi.com",
     "password": "123456",
     "createdAt": "2026-06-21T07:36:32.498Z"
+  },
+  {
+    "id": "1782190188364-tuunvze0h",
+    "name": "Saif Ali ",
+    "fatherName": "Akmal Malik ",
+    "class": "Class 11",
+    "idCard": "3520110915133",
+    "address": "Old mehmood butti",
+    "email": "saifali1234@email.com",
+    "password": "zusmon-8hiqJe-cafgiv",
+    "createdAt": "2026-06-23T04:49:48.364Z"
   }
 ]
