@@ -306,5 +306,16 @@
     "email": "saifali1234@email.com",
     "password": "zusmon-8hiqJe-cafgiv",
     "createdAt": "2026-06-23T04:49:48.364Z"
+  },
+  {
+    "id": "1782228944897-nuc64z90a",
+    "name": "Hadi Azam",
+    "fatherName": "Hadi Azam",
+    "class": "Class 11",
+    "idCard": "362020850489",
+    "address": "moza bahwale ghar",
+    "email": "hadiazam450@gmail.com",
+    "password": "hadi0786",
+    "createdAt": "2026-06-23T15:35:44.897Z"
   }
 ]
