@@ -361,5 +361,16 @@
     "email": "tayyabstocka@gmail.com",
     "password": "amirkhan1.",
     "createdAt": "2026-06-25T08:13:55.091Z"
+  },
+  {
+    "id": "1782393357040-jbnzk9feu",
+    "name": "Zain ul Abideen",
+    "fatherName": "Basheer",
+    "class": "Class 11",
+    "idCard": "3210341427057",
+    "address": "Tounsa sharif",
+    "email": "zainmurradi@gmail.com",
+    "password": "Zain786@",
+    "createdAt": "2026-06-25T13:15:57.040Z"
   }
 ]
