@@ -2122,5 +2122,116 @@
       }
     ],
     "createdAt": "2026-06-25T13:19:40.705Z"
+  },
+  {
+    "id": "1782406782171-4fc0yxci6",
+    "studentId": "1781770939940-z2yjaolz7",
+    "studentName": "Hamadullah ",
+    "fatherName": "N/A",
+    "class": "N/A",
+    "examId": "1782241175510-1hfiirony",
+    "examTitle": "Urdu 1st year final MCQs test ",
+    "totalMarks": 24,
+    "obtainedMarks": 5,
+    "percentage": 21,
+    "answers": [
+      {
+        "questionId": "1",
+        "answer": "C"
+      },
+      {
+        "questionId": "1782239105745-jz0xvuhel",
+        "answer": "B"
+      },
+      {
+        "questionId": "1782239211931-h0gdkcp6v",
+        "answer": "B"
+      },
+      {
+        "questionId": "1782239330233-cfx6tt6uh",
+        "answer": "C"
+      },
+      {
+        "questionId": "1782239426954-bw5lqrbhg",
+        "answer": "A"
+      },
+      {
+        "questionId": "1782239568590-mli2y3a55",
+        "answer": "C"
+      },
+      {
+        "questionId": "1782239629965-rp0av0kbs",
+        "answer": "B"
+      },
+      {
+        "questionId": "1782239771229-kkobkwjmo",
+        "answer": "D"
+      },
+      {
+        "questionId": "1782239844338-gvlt7686k",
+        "answer": "C"
+      },
+      {
+        "questionId": "1782239898824-mclbrhimh",
+        "answer": "A"
+      },
+      {
+        "questionId": "1782240036944-j9qyck4yq",
+        "answer": "B"
+      },
+      {
+        "questionId": "1782240140670-cwflzj5p5",
+        "answer": "B"
+      },
+      {
+        "questionId": "1782240205995-elisc26pz",
+        "answer": "C"
+      },
+      {
+        "questionId": "1782240294571-9rsb17hg5",
+        "answer": "B"
+      },
+      {
+        "questionId": "1782240389717-wfkk9xl8d",
+        "answer": "B"
+      },
+      {
+        "questionId": "1782240489102-dvq1eqluw",
+        "answer": "B"
+      },
+      {
+        "questionId": "1782240589237-hlm2kie9d",
+        "answer": "B"
+      },
+      {
+        "questionId": "1782240675803-k1bk3a37a",
+        "answer": "A"
+      },
+      {
+        "questionId": "1782240732507-fhwsskcyb",
+        "answer": "C"
+      },
+      {
+        "questionId": "1782240803418-t5jmjch0d",
+        "answer": "B"
+      },
+      {
+        "questionId": "1782240871534-z0fu4l3nu",
+        "answer": "B"
+      },
+      {
+        "questionId": "1782240928170-dhqydjq2x",
+        "answer": "B"
+      },
+      {
+        "questionId": "1782241016153-dhvyuaxlg",
+        "answer": "C"
+      },
+      {
+        "questionId": "1782241057283-j59xfehmp",
+        "answer": "C"
+      }
+    ],
+    "createdAt": "2026-06-25T16:59:42.171Z"
   }
 ]
