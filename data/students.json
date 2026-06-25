@@ -350,5 +350,16 @@
     "email": "hafizhuzaifahashmi@gmail.com",
     "password": "h@$hm!786",
     "createdAt": "2026-06-25T06:56:43.472Z"
+  },
+  {
+    "id": "1782375235091-11rtejttn",
+    "name": "Muhammad Amir",
+    "fatherName": "Aziz ur Rehman",
+    "class": "Class 11",
+    "idCard": "3240252036669",
+    "address": "Jampur district Rajan pur",
+    "email": "tayyabstocka@gmail.com",
+    "password": "amirkhan1.",
+    "createdAt": "2026-06-25T08:13:55.091Z"
   }
 ]
